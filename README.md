@@ -12,5 +12,6 @@ to Software Engneering Course at FPT University - HCMC Campus
 ## Connect me via
 1.[GitHub](https://github.com/KieenVux)
 2.[Facebook](https://www.facebook.com/VuKien21102000)
+3.[Email](mail: trungkienks8@gmail.com)
 
-### © 2020 by Kiên Vũ
+### © 2020 by Kiên Vũ FPT University - HCMC Campus
