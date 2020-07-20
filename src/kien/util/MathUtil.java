@@ -16,6 +16,9 @@ public class MathUtil {
     // int chỉ tối đá 2 tỷ 1, nên ta xài long mới an toàn
     // thực ra 15! to lắm rồi, nên ta chỉ tính giai thưa từ 15 trở lại
     public static long computeFactorial(int n){
+        
+        if(n < 0)
+            throw new IllegalArgumentException();
         long result = 1;
         for (int i = 1; i <= n; i++) {
             result *= i;
