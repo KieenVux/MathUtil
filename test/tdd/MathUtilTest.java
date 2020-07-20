@@ -52,7 +52,7 @@ public class MathUtilTest {
         // trogn khi đó ném ra ngoại lệ là actual value để so sánh
         // ta phải xài chiều khác khi bắt gặp ngoại lệ
         //coi có đúng là ngoại lệ cần k?
-        //computeFactorial(-5);
+        computeFactorial(-5);
         computeFactorial(16); // giai thừa tăng rất nhanh, k chơi quá 15
     }
     

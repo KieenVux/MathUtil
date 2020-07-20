@@ -17,7 +17,7 @@ public class MathUtil {
     // thực ra 15! to lắm rồi, nên ta chỉ tính giai thưa từ 15 trở lại
     public static long computeFactorial(int n){
         
-        if(n < 0)
+        if(n < 0 || n > 15)
             throw new IllegalArgumentException();
         long result = 1;
         for (int i = 1; i <= n; i++) {
